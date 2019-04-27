@@ -1,0 +1,7 @@
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 2\sec006-5_COMP123_02\sec006-5_COMP123_02\bin\Debug\sec006-5_COMP123_02.exe.config
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 2\sec006-5_COMP123_02\sec006-5_COMP123_02\bin\Debug\sec006-5_COMP123_02.exe
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 2\sec006-5_COMP123_02\sec006-5_COMP123_02\bin\Debug\sec006-5_COMP123_02.pdb
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 2\sec006-5_COMP123_02\sec006-5_COMP123_02\obj\Debug\sec006-5_COMP123_02.csprojAssemblyReference.cache
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 2\sec006-5_COMP123_02\sec006-5_COMP123_02\obj\Debug\sec006-5_COMP123_02.csproj.CoreCompileInputs.cache
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 2\sec006-5_COMP123_02\sec006-5_COMP123_02\obj\Debug\sec006-5_COMP123_02.exe
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 2\sec006-5_COMP123_02\sec006-5_COMP123_02\obj\Debug\sec006-5_COMP123_02.pdb
